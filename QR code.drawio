@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T16:49:43.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y2G3fmh2MYyg2_tXZaSn" version="23.1.5" type="device">
+  <diagram name="Page-1" id="9F-JqYtViMqas1ZYGIfo">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vjIhwuQnK4JfEei02uKe-2" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vjIhwuQnK4JfEei02uKe-5" target="vjIhwuQnK4JfEei02uKe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/qr-code-outline-128.png" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="131" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vjIhwuQnK4JfEei02uKe-6" target="vjIhwuQnK4JfEei02uKe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Malicious URL&lt;/font&gt;&lt;/b&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.url;fillColor=#e0e0e0;strokeColor=#c0c0c0;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;spacingTop=2;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="210" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vjIhwuQnK4JfEei02uKe-7" target="vjIhwuQnK4JfEei02uKe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-7" value="&lt;h2&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Preprocesing/Feature Extraction&lt;/font&gt;&lt;/b&gt;&lt;/h2&gt;URL Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="185" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vjIhwuQnK4JfEei02uKe-8" target="vjIhwuQnK4JfEei02uKe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-8" value="&lt;h2&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Machine learning Models&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="310" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vjIhwuQnK4JfEei02uKe-9" target="vjIhwuQnK4JfEei02uKe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-9" value="&lt;h2&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Stored URLs&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Malicious link detector&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="440" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-10" value="&lt;h2&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;User interface&lt;/span&gt;&lt;/h2&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;(Display warnings, notifications, and decision outcomes related to URLs&lt;/b&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="570" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vjIhwuQnK4JfEei02uKe-11" value="QR Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225.5" y="131" width="80" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
