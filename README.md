@@ -41,7 +41,7 @@ Ensure these datasets are placed in the appropriate input directory.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/maryamanwer/A-secure-and-reliable-framework-for-explainable-artificial-intelligence-XAI
    cd repo-name
    ```
 2. Run the data preprocessing script to clean and merge datasets.
